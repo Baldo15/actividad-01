@@ -2,7 +2,7 @@
     class A {
         private $foo;
         private $bar;
-
+        private $lorem;
         public function getFoo() {
             return $this->foo;
         }
